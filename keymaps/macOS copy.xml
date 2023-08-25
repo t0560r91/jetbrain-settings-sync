@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>

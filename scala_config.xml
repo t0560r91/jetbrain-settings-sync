@@ -1,0 +1,12 @@
+<application>
+  <component name="ApplicationCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ScalaApplicationSettings">
+    <option name="INSERT_MULTILINE_QUOTES" value="false" />
+    <option name="WRAP_SINGLE_EXPRESSION_BODY" value="false" />
+    <option name="DELETE_CLOSING_BRACE" value="false" />
+    <option name="HANDLE_BLOCK_BRACES_INSERTION_AUTOMATICALLY" value="false" />
+    <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
+  </component>
+</application>
