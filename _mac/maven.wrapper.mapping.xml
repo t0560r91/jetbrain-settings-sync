@@ -5,6 +5,7 @@
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.2.5/apache-maven-3.2.5-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.2.5-bin/3fgn2ao4aofve1o9s685nh9rgh/apache-maven-3.2.5" />
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.5.3/apache-maven-3.5.3-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.5.3-bin/6rtk6r8hiu511erccgp64thica/apache-maven-3.5.3" />
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.6.0/apache-maven-3.6.0-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.0-bin/2dakv70gp803gtm5ve1ufmvttn/apache-maven-3.6.0" />
+        <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.6.3/apache-maven-3.6.3-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.7/apache-maven-3.8.7-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.7-bin/1ktonn2lleg549uah6ngl1r74r/apache-maven-3.8.7" />
       </map>
     </option>
