@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ValidationProperties" type="AUTO_DETECTED" />
       <mapping ext="hql" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
